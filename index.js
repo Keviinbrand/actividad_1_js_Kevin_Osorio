@@ -1,0 +1,7 @@
+const name = 'Kevin';
+let age = 18;
+const yearOfBirth = 2004;
+let city = 'Medellín';
+
+console.log('Hola mi nombre es ' +  name + ' nací en el ' + yearOfBirth + ', tengo ' +  age + ' años vivo en ' + city +'.' )
+//Utilicé '+' para concatenar corractamente.
